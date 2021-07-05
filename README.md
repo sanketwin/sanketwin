@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanket Rasal
-- 👀 I’m interested Web Development and Gaming Industry ...
-- 🌱 I’m currently ReactJS, Typescript, Redux ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested Web Development and Gaming Industry.
+- 🌱 I’m currently learning ReactJS, NodeJS.
 - 📫 How to reach me <br/><br/>
 Email - sanketwin@gmail.com<br/>
 LinkedIn - <a href="https://https://www.linkedin.com/in/sanket-rasal/">LinkedIn</a><br/>
