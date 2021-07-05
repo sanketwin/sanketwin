@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -     Email - sanketwin@gmail.com
--     LinkedIn - https://https://www.linkedin.com/in/sanket-rasal/
--     Facebook : https://www.facebook.com/nuked18 
--     Instagram : https://www.instagram.com/i_iz_sanket
+-     LinkedIn - <a href="https://https://www.linkedin.com/in/sanket-rasal/">LinkedIn</a>
+-     Facebook - <a href="https://www.facebook.com/nuked18">LinkedIn</a>
+-     Instagram - <a href="https://www.instagram.com/i_iz_sanket">LinkedIn</a>
 
