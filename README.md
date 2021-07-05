@@ -6,4 +6,5 @@ Email - sanketwin@gmail.com<br/>
 LinkedIn - <a href="https://www.linkedin.com/in/sanket-rasal/">LinkedIn</a><br/>
 Facebook - <a href="https://www.facebook.com/nuked18">Facebook</a><br/>
 Instagram - <a href="https://www.instagram.com/i_iz_sanket">Instagram</a>
+[Instagram](https://www.instagram.com/i_iz_sanket)
 
