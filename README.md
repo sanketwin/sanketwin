@@ -16,7 +16,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketwin&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-![PRIYANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketwin&show_icons=true&theme=radical&layout=compact)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketwin&show_icons=true&theme=radical&layout=compact)
 
 ---
 
@@ -30,10 +30,14 @@
 		<td >
 		<img src="/.github/icons/nodejs.svg" width="60"/>
 		</td>
+    <td >
+		<img src="/.github/icons/python-vertical.svg" width="60"/>
+		</td>
 	</tr>
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
+		<td>Python</td>
 	</tr>
 </table>
 <table >
@@ -45,10 +49,7 @@
 			<img src="/.github/icons/bootstrap.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/vercel.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
+			<img src="/.github/icons/mysql-official.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/mongodb.svg" width="60"/>
@@ -57,8 +58,7 @@
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
-		<td>Vercel</td>
-		<td>Redux</td>
+		<td>MySQL</td>
 		<td>MongoDB</td>
 	</tr>
 </table>
@@ -76,18 +76,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sanket-rasal/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sanketwin@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/kKtgFGt6ku"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/i_iz_sanket"><img src="/.github/icons/instagram-icon.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<!-- <p align="left">
-<img src="/.github/icons/react.png" width="60"/>
-<img src="/.github/icons/nodejs.svg" width="60"/>
-<img src="/.github/icons/nextjs.svg" width="60"/>
-<img src="/.github/icons/sass.svg" width="60"/>
-<img src="/.github/icons/expressjs.png" width="60"/>
-<img src="/.github/icons/framer.png" width="60"/>
-<img src="/.github/icons/mongodb.svg" width="60"/>
-<img src="/.github/icons/materialui.svg" width="60"/>
-<img src="/.github/icons/bootstrap.svg" width="60"/>
-<img src="/.github/icons/vercel.svg" width="60"/>
-<img src="/.github/icons/redux.svg" width="60"/>
-</p> -->
