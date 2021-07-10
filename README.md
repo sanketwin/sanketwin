@@ -8,9 +8,9 @@
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/sanketwin?label=follow&logo=github&style=flat-square"> -->
 
-![](https://img.shields.io/github/followers/sanketwin?label=follow&logo=github&style=flat-square)
+![Follow](https://img.shields.io/github/followers/sanketwin?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/sanketwin?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=sanketwin&style=flat-square&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=sanketwin&style=flat-square&color=ff69b4)
 
 </div>
 
@@ -33,11 +33,19 @@
     <td >
 		<img src="/.github/icons/python-vertical.svg" width="60"/>
 		</td>
+    <td >
+		<img src="/.github/icons/html5.svg" width="60"/>
+		</td>
+    <td >
+		<img src="/.github/icons/css.svg" width="60"/>
+		</td>
 	</tr>
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
 		<td>Python</td>
+		<td>HTML5</td>
+		<td>CSS</td>
 	</tr>
 </table>
 <table >
