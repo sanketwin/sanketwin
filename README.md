@@ -31,21 +31,21 @@
 		<img src="/.github/icons/nodejs.svg" width="60"/>
 		</td>
     <td >
-		<img src="/.github/icons/javascript.svg" width="60"/>
-		</td>
-    <td >
 		<img src="/.github/icons/html5.svg" width="60"/>
 		</td>
     <td >
 		<img src="/.github/icons/css.svg" width="60"/>
 		</td>
+    <td >
+		<img src="/.github/icons/javascript.svg" width="60"/>
+		</td>
 	</tr>
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
-		<td>JavaScript</td>
 		<td>HTML5</td>
 		<td>CSS</td>
+		<td>JavaScript</td>
 	</tr>
 </table>
 <table >
@@ -59,15 +59,11 @@
 		<td >
 			<img src="/.github/icons/mysql-official.svg" width="60"/>
 		</td>
-		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
-		</td>
 	</tr>
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
 		<td>MySQL</td>
-		<td>MongoDB</td>
 	</tr>
 </table>
 
