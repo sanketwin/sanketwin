@@ -31,7 +31,7 @@
 		<img src="/.github/icons/nodejs.svg" width="60"/>
 		</td>
     <td >
-		<img src="/.github/icons/python-vertical.svg" width="60"/>
+		<img src="/.github/icons/javascript.svg.svg" width="60"/>
 		</td>
     <td >
 		<img src="/.github/icons/html5.svg" width="60"/>
