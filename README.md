@@ -31,7 +31,7 @@
 		<img src="/.github/icons/nodejs.svg" width="60"/>
 		</td>
     <td >
-		<img src="/.github/icons/javascript.svg.svg" width="60"/>
+		<img src="/.github/icons/javascript.svg" width="60"/>
 		</td>
     <td >
 		<img src="/.github/icons/html5.svg" width="60"/>
@@ -43,7 +43,7 @@
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
-		<td>Python</td>
+		<td>JavaScript</td>
 		<td>HTML5</td>
 		<td>CSS</td>
 	</tr>
